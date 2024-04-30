@@ -18,7 +18,7 @@ export default function SliderRooms() {
         loop={true}
         breakpoints={{
             900: {
-                slidesPerView: 2,
+                slidesPerView: 3,
             },
             0: {
                 slidesPerView: 1,
